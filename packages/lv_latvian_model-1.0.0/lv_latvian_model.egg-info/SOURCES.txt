@@ -15,12 +15,13 @@ lv_latvian_model/lv_latvian_model-1.0.0/README.md
 lv_latvian_model/lv_latvian_model-1.0.0/config.cfg
 lv_latvian_model/lv_latvian_model-1.0.0/meta.json
 lv_latvian_model/lv_latvian_model-1.0.0/tokenizer
-lv_latvian_model/lv_latvian_model-1.0.0/lookups/lemma_lookup.json
 lv_latvian_model/lv_latvian_model-1.0.0/morphologizer/cfg
 lv_latvian_model/lv_latvian_model-1.0.0/morphologizer/model
 lv_latvian_model/lv_latvian_model-1.0.0/parser/cfg
 lv_latvian_model/lv_latvian_model-1.0.0/parser/model
 lv_latvian_model/lv_latvian_model-1.0.0/parser/moves
+lv_latvian_model/lv_latvian_model-1.0.0/senter/cfg
+lv_latvian_model/lv_latvian_model-1.0.0/senter/model
 lv_latvian_model/lv_latvian_model-1.0.0/tagger/cfg
 lv_latvian_model/lv_latvian_model-1.0.0/tagger/model
 lv_latvian_model/lv_latvian_model-1.0.0/tok2vec/cfg
