@@ -9,7 +9,6 @@ lv_latvian_model.egg-info/SOURCES.txt
 lv_latvian_model.egg-info/dependency_links.txt
 lv_latvian_model.egg-info/entry_points.txt
 lv_latvian_model.egg-info/not-zip-safe
-lv_latvian_model.egg-info/requires.txt
 lv_latvian_model.egg-info/top_level.txt
 lv_latvian_model/lv_latvian_model-1.0.0/README.md
 lv_latvian_model/lv_latvian_model-1.0.0/config.cfg
