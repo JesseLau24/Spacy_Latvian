@@ -11,8 +11,8 @@ Dynamic: description
 | **Name** | `lv_latvian_model` |
 | **Version** | `1.0.0` |
 | **spaCy** | `>=3.8.7,<3.9.0` |
-| **Default Pipeline** | `tok2vec`, `tagger`, `morphologizer`, `parser`, `senter`, `stanza_lemmatizer` |
-| **Components** | `tok2vec`, `tagger`, `morphologizer`, `parser`, `senter`, `stanza_lemmatizer` |
+| **Default Pipeline** | `tok2vec`, `tagger`, `morphologizer`, `parser`, `senter` |
+| **Components** | `tok2vec`, `tagger`, `morphologizer`, `parser`, `senter` |
 | **Vectors** | 0 keys, 0 unique vectors (0 dimensions) |
 | **Sources** | n/a |
 | **License** | n/a |
@@ -36,19 +36,19 @@ Dynamic: description
 
 | Type | Score |
 | --- | --- |
-| `TAG_ACC` | 87.39 |
-| `POS_ACC` | 95.29 |
+| `TAG_ACC` | 87.76 |
+| `POS_ACC` | 95.49 |
 | `TAG_MICRO_P` | 0.00 |
 | `TAG_MICRO_R` | 0.00 |
 | `TAG_MICRO_F` | 0.00 |
-| `MORPH_ACC` | 90.92 |
-| `DEP_UAS` | 81.73 |
-| `DEP_LAS` | 76.53 |
-| `SENTS_P` | 99.62 |
-| `SENTS_R` | 99.81 |
-| `SENTS_F` | 99.71 |
-| `TOK2VEC_LOSS` | 7219567.74 |
-| `TAGGER_LOSS` | 1303031.07 |
-| `MORPHOLOGIZER_LOSS` | 913630.97 |
-| `PARSER_LOSS` | 3387287.50 |
-| `SENTER_LOSS` | 8827.47 |
+| `MORPH_ACC` | 91.16 |
+| `DEP_UAS` | 81.29 |
+| `DEP_LAS` | 75.98 |
+| `SENTS_P` | 95.56 |
+| `SENTS_R` | 95.24 |
+| `SENTS_F` | 95.40 |
+| `TOK2VEC_LOSS` | 10695715.03 |
+| `TAGGER_LOSS` | 832630.91 |
+| `MORPHOLOGIZER_LOSS` | 575226.72 |
+| `PARSER_LOSS` | 2845672.26 |
+| `SENTER_LOSS` | 35979.13 |
