@@ -1,2 +1,0 @@
-[spacy_models]
-lv_latvian_model = lv_latvian_model
