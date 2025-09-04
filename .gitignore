@@ -1,0 +1,13 @@
+# 忽略模型和打包文件夹
+models/
+packages/
+
+# 其他临时文件
+*.pyc
+__pycache__/
+.ipynb_checkpoints/
+
+# 虚拟环境
+venv/
+env/
+*.env
